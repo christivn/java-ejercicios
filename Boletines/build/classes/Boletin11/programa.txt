@@ -1,0 +1,10 @@
+// Esto es un programa de prueba
+
+public class Programa de prueba {
+    public static void main(String[] args) throws IOException {
+
+    // Para probar el ejercicio05 de eliminacion de comentarios
+    System.out.println("Hola Mundo");
+
+ }
+}

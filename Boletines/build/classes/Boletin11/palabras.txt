@@ -1,0 +1,8 @@
+Hola
+Adios
+Dia
+Noche
+Verano
+Invierno
+Blanco
+Negro
